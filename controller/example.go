@@ -4,9 +4,10 @@ import (
 	"bytes"
 	"fmt"
 	"strconv"
-	. "upendo/controller"
-	"upendo/pages"
-	"upendo/router"
+
+	. "github.com/solgar/upendo/controller"
+	"github.com/solgar/upendo/pages"
+	"github.com/solgar/upendo/router"
 )
 
 type ExampleController router.Controller

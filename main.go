@@ -1,7 +1,7 @@
 package main
 
 import (
-	"upendo"
+	"github.com/solgar/upendo"
 	_ "upendo_example/controller"
 )
 
